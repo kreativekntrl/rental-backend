@@ -11,6 +11,62 @@ app.get("/about", (req, res) => {
   console.log("res", response);
   res.json(response);
 });
+app.get("/about", (req, res) => {
+  const response = {
+    title: "About",
+    time_createdAT: new Date(),
+    isValid: false,
+  };
+  console.log("res", response);
+  res.json(response);
+});
+
+app.get("/about", (req, res) => {
+  const response = {
+    title: "About",
+    time_createdAT: new Date(),
+    isValid: false,
+  };
+  console.log("res", response);
+  res.json(response);
+});
+app.get("/about", (req, res) => {
+  const response = {
+    title: "About",
+    time_createdAT: new Date(),
+    isValid: false,
+  };
+  console.log("res", response);
+  res.json(response);
+});
+
+app.get("/about", (req, res) => {
+  const response = {
+    title: "About",
+    time_createdAT: new Date(),
+    isValid: false,
+  };
+  console.log("res", response);
+  res.json(response);
+});
+app.get("/about", (req, res) => {
+  const response = {
+    title: "About",
+    time_createdAT: new Date(),
+    isValid: false,
+  };
+  console.log("res", response);
+  res.json(response);
+});
+app.get("/about", (req, res) => {
+  const response = {
+    title: "About",
+    time_createdAT: new Date(),
+    isValid: false,
+  };
+  console.log("res", response);
+  res.json(response);
+});
 
 app.get("/blog", (req, res) => {
   const response = {
