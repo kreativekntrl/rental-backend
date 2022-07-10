@@ -1,0 +1,50 @@
+[
+    {
+        "cityName": "Los Angeles",
+        "descr": "This is a lovely 2 bd 2 ba apartment. Available near the end of September. Great view, amenities, and walking distance from your local grocery stores.",
+        "price": "3100",
+        "rentalImg": ""
+    },
+    {
+        "cityName": "Los Angeles",
+        "descr": "This is a modern studio apartment. Available on August 15th. Pet friendly, great amenities, and located in the heart of downtown!",
+        "price": "1900",
+        "rentalImg": ""
+    },
+    {
+        "cityName": "Los Angeles",
+        "descr": "1bd 1ba. This rental is available in September. 12 month lease will be required. Great natural light, located in a quiet neighborhood, and pet friendly!",
+        "price": "2300",
+        "rentalImg": ""
+    },
+    {
+        "cityName": "Los Angeles",
+        "descr": "4bd 3ba condo perfect for you! This luxury condo is located in beverly hills and has beautiful views of the city. No pets allowed!",
+        "price": "13000",
+        "rentalImg": ""
+    },
+    {
+        "cityName": "San Diego",
+        "descr": "2bd 1ba house perfect for you! Lovely area, near shopping center. Newly renovated.",
+        "price": "3200",
+        "rentalImg": ""
+    },
+    {
+        "cityName": "San Diego",
+        "descr": "studio apartment located in La Mesa. Great amenities, close to shopping center, and views! First month free with a 14 month lease.",
+        "price": "1600",
+        "rentalImg": ""
+    },
+    {
+        "cityName": "San Diego",
+        "descr": "2bd 2ba apartment located in Pacific Beach. Newly renovated and all new appliances. Great natural light and pet friendly!",
+        "price": "3300",
+        "rentalImg": ""
+    },
+    {
+        "cityName": "San Diego",
+        "descr": "Gaslamp 1bd 1ba available now! Will go quick.",
+        "price": "2100",
+        "rentalImg": ""
+    }
+]
